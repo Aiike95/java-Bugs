@@ -183,7 +183,7 @@ public class Task1 {
         WebElement checkOut = driver.findElement(By.xpath("//button]@id='checkout']"));
         checkOut.click();
 
-
+        System.out.println("");
 
 
     }
